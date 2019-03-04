@@ -559,14 +559,14 @@ for any IP address.
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
-- [hdencode](https://hdencode.com/)
+- [hdencode](https://hdencode.com/) Movie/TV DDL, up to 2160p available through hosts like Uploaded/Nitroflame.
 - [Movies "R" Us](moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
 - [Movie Glide](https://www.movieglide.com/)
-- [Release BB](http://rlsbb.ru)
+- [Release BB](http://rlsbb.ru) Wide variety of programs, movies, games, ebooks, etc.
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
-- [AdiT-HD](http://adit-hd.com/) direct download site
-- [TwoDDL](http://2ddl.ws) Direct download links
-- [RapidMoviez](http://rmz.cr/)
+- [AdiT-HD](http://adit-hd.com/) 720p/1080p DDL forum site (account required).
+- [Invictus](https://invictus.ws/) Apps, E-Books, Games, Movies, Music, TV Shows
+- [RapidMoviez](http://rmz.cr/) TV/Movies, large library of full TV shows. Hosts: Rapidrar, Nitroflame, Uploaded, etc.
 - [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
 - [MkvCage](https://www.mkvcage.ws/)
@@ -576,14 +576,12 @@ for any IP address.
 - [PSARips](https://psarips.com/) Popular site for movies and TV shows, includes torrent files
 - [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) Pastebin user who uploads premium links for TV shows
 - [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [Moviesleak](https://moviesleak.net/)
+- [Moviesleak](https://moviesleak.net/) Wide variety of hosting sites: 2giga, Clicknupload, Uptobox, megaup, go4up, streamcherry, vidoza, etc.
 - [Dospelis](https://www.dospelis.net) Spanish DDL indexer
-- [Vidics](https://www.vidics.to/)
-- [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
-- [watchtvseries](http://watchtvseries.unblckd.club/)
-- [tvbox](https://tvbox.unblocked.gdn/)
-- [DownTurk](https://www.downturk.net/)
-- [ScnLog](https://scnlog.me/)
+- [watchtvseries](http://watchtvseries.unblckd.club/) Large collection of TV Shows with many hosts: openload, streamplay, vidoza, streamango, streamcherry, etc. Uses unblocked.pet
+- [tvbox](https://tvbox.unblocked.gdn/) Basic Movie/TV Show DDL Site, plenty of hosts. Uses unblocked.pet
+- [DownTurk](https://www.downturk.net/) Software, Games, Design, Media, Learning, Mobile, etc.
+- [ScnLog](https://scnlog.me/) Movies, TV Shows, Games, Apps, Music, PDA, EBooks, Foreign, XXX, etc.
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
 - [Movie-blog.org](http://movie-blog.to/) German site for movies
 - [Movieworld.to](http://movieworld.to/) Another German site for movies
